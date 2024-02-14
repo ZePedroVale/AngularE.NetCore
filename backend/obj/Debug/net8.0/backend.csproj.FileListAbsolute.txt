@@ -32,3 +32,16 @@ C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\obj\Debug\
 C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\DnsClient.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\Snappier.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zezez\OneDrive\Ambiente de Trabalho\AngularE.NetCore\backend\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
